@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-06-02T00:52:43.776Z'
+datePublished: '2017-06-03T13:46:34.334Z'
 description: >-
   A $10,000 investment in Amazon.com Inc. 20 years ago would be worth $4.9
   million today. Good luck finding an Amazon investor who can brag about a
@@ -9,7 +9,7 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-06-02T00:52:08.081Z'
+dateModified: '2017-06-03T13:46:26.682Z'
 sourcePath: _posts/2017-06-02-amazons-ipo-at-20-that-amazing-return-you-didnt-earn.md
 title: 'Amazon''s IPO at 20: That Amazing Return You Didn''t Earn'
 hasPage: true
@@ -32,13 +32,10 @@ Um investidor que apostou dez mil dólares na Amazon há 20 anos e \*manteve o i
 
 No período, a Amazon:
 
-Caiu 6%, em um dia, em 199 ocasiões.
-
-Caiu 15%, em três dias, em 107 ocasiões.
-
-Caiu 95%, entre Dezembro 1.999 e Outubro 2001, no estouro da bolha da Internet.
-
-Caiu 64% na crise de 2008\.
+* Caiu 6%, em um dia, em 199 ocasiões.
+* Caiu 15%, em três dias, em 107 ocasiões.
+* Caiu 95%, entre Dezembro 1.999 e Outubro 2001, no estouro da bolha da Internet.
+* Caiu 64% na crise de 2008\.
 
 Emoções, muitas emoções. E muita análise, muito tempo de estudo, muita leitura, horas intermináveis, ouvindo conf calls de resultados, muito Excel, muito DCF, resiliência e descortino.
 
