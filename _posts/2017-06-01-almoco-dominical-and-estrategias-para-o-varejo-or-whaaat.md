@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-01T12:23:32.326Z'
-dateModified: '2017-06-01T12:23:23.832Z'
+datePublished: '2017-06-01T12:16:52.069Z'
+dateModified: '2017-06-01T12:16:20.604Z'
 via: {}
 description: 1. Montar cardápio - 10 minutos.
 title: Almoço dominical & estratégias para o varejo. | Whaaat?
@@ -42,7 +42,5 @@ Isso mesmo - uma a duas horas.
 E dizem que estratégia é difícil, estratégia é fácil, a teoria na prática é outra, isso é conversa fiada de consultores, falar é fácil, aqui não vai pegar, vamos otimizar o que já temos, isso é coisa de gringo, é muito complicado, no Brasil é diferente, nada há a melhorar, precisamos é aumentar o trânsito nas lojas, vamos abrir mais lojas, façamos uma promoção, aumenta o desconto, precisamos incentivar a indústria nacional.
 
 [How Amazon does 2-hour delivery][0]
-
-http://www.cnbc.com/2017/05/27/amazon-prime-now-video-tour.html
 
 [0]: http://www.cnbc.com/2017/05/27/amazon-prime-now-video-tour.html "Optional("")"
