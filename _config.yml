@@ -1,20 +1,20 @@
-layout_spectrum: 0.7433491956033181
-typography_spectrum: 0.9797198375791201
-color:
-  lightness: 0.834685070036016
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  saturation: 0.8478033688524277
-  brandStrength: 0.11670271164433349
-  rhythmicContrast: 0.23847466187413302
+typography_spectrum: 0.7151658368106968
 content_rating:
   adult: false
+color:
+  lightness: 0.5003843827560397
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.02087202338520253
+  brandStrength: 0.22289757667791726
+  rhythmicContrast: 0.9761154845585622
 github: true
 opengraph: {}
+layout_spectrum: 0.37968673670811964
 analytics: {}
 author:
   name: Giovani di Gesu
@@ -104,3 +104,6 @@ purpose:
   - type: contact
     url: 'mailto:contact@giovanidigesu.com'
     label: Contact me
+  - type: external
+    url: 'http://twitter.giovanidigesu.com'
+    label: 'http://twitter.giovanidigesu.com'
