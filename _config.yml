@@ -1,3 +1,16 @@
+layout_spectrum: 0.37968673670811964
+typography_spectrum: 0.7151658368106968
+color:
+  lightness: 0.5003843827560397
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.02087202338520253
+  brandStrength: 0.22289757667791726
+  rhythmicContrast: 0.9761154845585622
 name: giovanidigesu
 analytics: {}
 purpose:
@@ -75,7 +88,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -83,20 +95,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.0973049933090806
-color:
-  lightness: 0.4743586995173246
-  brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
-  saturation: 0.6086075871717185
-  brandStrength: 0.2855017494875938
-  rhythmicContrast: 0.1308323282282799
 content_rating:
   adult: false
-typography_spectrum: 0.1985244336538017
 opengraph: {}
 title: giovanidigesu
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f65829-0c46-4344-b46b-de0abd42d653.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/309fdd40-fe32-4fec-8697-5dfaaa36cf20.png
