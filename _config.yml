@@ -14,7 +14,8 @@ color:
 content_rating:
   adult: false
 github: true
-opengraph: {}
+opengraph:
+  appId: '1364395783639150'
 analytics: {}
 author:
   name: Giovani di Gesu
@@ -104,6 +105,3 @@ purpose:
   - type: contact
     url: 'mailto:contact@giovanidigesu.com'
     label: Contact me
-  - type: external
-    url: 'http://twitter.giovanidigesu.com'
-    label: 'http://twitter.giovanidigesu.com'
