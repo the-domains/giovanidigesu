@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-01T16:03:11.572Z'
-dateModified: '2017-06-01T16:03:10.929Z'
+datePublished: '2017-06-01T10:54:30.252Z'
+dateModified: '2017-06-01T10:54:24.850Z'
 via: {}
 description: 1. Montar cardápio - 10 minutos.
 title: Almoço dominical & estratégias para o varejo. | Whaaat?
@@ -13,8 +13,6 @@ datePublishedOriginal: '2017-06-01T09:59:32.754Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d95cee8-c22a-47ab-ad6a-452c194e6c91.jpg)
-
 # Almoço dominical & estratégias para o varejo. | Whaaat?
 
 ## Cenário 1
