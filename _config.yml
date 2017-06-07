@@ -1,27 +1,19 @@
-typography_spectrum: 0.7151658368106968
-content_rating:
-  adult: false
-color:
-  lightness: 0.5003843827560397
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
-  saturation: 0.02087202338520253
-  brandStrength: 0.22289757667791726
-  rhythmicContrast: 0.9761154845585622
-github: true
-opengraph: {}
-layout_spectrum: 0.37968673670811964
+name: giovanidigesu
 analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:contact@giovanidigesu.com'
+    label: Contact me
+  - type: external
+    url: 'http://twitter.giovanidigesu.com'
+    label: 'http://twitter.giovanidigesu.com'
+github: true
+description: >-
+  Growth, strategy, operations, organization, business models, and business
+  technology.
 author:
   name: Giovani di Gesu
   email: contact@giovanidigesu.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5f65829-0c46-4344-b46b-de0abd42d653.png
-name: giovanidigesu
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -29,12 +21,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: About
-    id: 7214412d-59b3-4fdc-9a02-1fc9e9f90e90
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/309fdd40-fe32-4fec-8697-5dfaaa36cf20.png
 collections:
   - index:
       path: /
@@ -47,63 +33,21 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+content: []
+layout_spectrum: 0.0973049933090806
+color:
+  lightness: 0.4743586995173246
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  saturation: 0.6086075871717185
+  brandStrength: 0.2855017494875938
+  rhythmicContrast: 0.1308323282282799
+content_rating:
+  adult: false
+typography_spectrum: 0.1985244336538017
+opengraph: {}
 title: giovanidigesu
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/536bad21-2ded-440e-a7c9-1ba1b9be6d94.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/536bad21-2ded-440e-a7c9-1ba1b9be6d94.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d955a1ec-4c96-43d5-b5a7-49a04c115108.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d955a1ec-4c96-43d5-b5a7-49a04c115108.jpg
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-description: >-
-  Growth, strategy, operations, organization, business models, and business
-  technology.
-purpose:
-  - type: contact
-    url: 'mailto:contact@giovanidigesu.com'
-    label: Contact me
-  - type: external
-    url: 'http://twitter.giovanidigesu.com'
-    label: 'http://twitter.giovanidigesu.com'
